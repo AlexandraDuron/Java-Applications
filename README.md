@@ -36,3 +36,5 @@ Each folder in this repository contains a different Java project.
 14. Find a happy number (using recursion).
 
 15. A short method to check for the frequency of numbers in an array.
+
+16. Calculation of the area of different shapes. Utilizing polymorphism.
