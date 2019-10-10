@@ -33,10 +33,6 @@ Each folder in this repository contains a different Java project.
 
 13. A method that finds if two strings  are case-insensitive anagrams.
 
-14. Find negative sub arrays. 
+14. Find a happy number (using recursion).
 
-15. Find a happy number (using recursion).
-
-16. Find pairs of integer numbers in an array. 
-
-17. A short method to check for the frequency of numbers in an array.
+15. A short method to check for the frequency of numbers in an array.
