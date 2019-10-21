@@ -2,7 +2,7 @@
 
 Each folder in this repository contains a different Java project.
 
-1. A system to optimize the storage of items in a Shop. It makes cabinet objects and store items in them accoring to an input file. 
+1. A system to optimize the storage of items in a Shop. It makes cabinet objects and store items in them according to an input file. 
    It finds the cabinet were an item was stored, or it prints "New" if the item was just created, or if it prints "Outside" if the item
    is not in the Shop anymore. Usage of HashMap and ArrayList. 
 
