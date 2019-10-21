@@ -3,7 +3,7 @@
 Each folder in this repository contains a different Java project.
 
 1. A system to optimize the storage of items in a Shop. It makes cabinet objects and store items in them according to an input file. 
-   It finds the cabinet were an item was stored, or it prints "New" if the item was just created, or if it prints "Outside" if the item
+   It finds the cabinet were an item was stored, or it prints "New" if the item was just created, or  it prints "Outside" if the item
    is not in the Shop anymore. Usage of HashMap and ArrayList. 
 
 2. A variant of the classic whack-a-mole game. (Utilizing 2D arrays) eg: https://giphy.com/gifs/gifporn-MVUyVpyjakkRW
