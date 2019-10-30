@@ -42,3 +42,5 @@ Each folder in this repository contains a different Java project.
 16. Calculation of the area of different shapes. Utilizing polymorphism.
 
 17. A short method that finds prime numbers. 
+
+18. Find the first non-repeated element in a String
